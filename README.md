@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning C++ and objective C
 - 💞️ I’m looking to collaborate on infiltrating the russian army
 - 📫 How to reach me
-  discord: eclipse_cta
-  snap: swag.sope
-  dm me for spicy stuff ;) 
+ -  discord: eclipse_cta
+  - snap: swag.sope
+  - dm me for spicy stuff ;) 
